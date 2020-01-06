@@ -1,0 +1,308 @@
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\csc.exe
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\vbc.exe
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\WEBAPI.dll.config
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\WEBAPI.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\WEBAPI.pdb
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Antlr3.Runtime.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\EntityFramework.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Newtonsoft.Json.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Owin.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Helpers.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Mvc.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Optimization.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Razor.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\WebGrease.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Newtonsoft.Json.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Helpers.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Mvc.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Optimization.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Razor.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Antlr3.Runtime.pdb
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\EntityFramework.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.xml
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.dll
+c:\users\yasir\documents\visual studio 2015\Projects\WEBAPI\WEBAPI\obj\Debug\WEBAPI.pdb
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\csc.exe
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\vbc.exe
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\WEBAPI.dll.config
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\WEBAPI.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\WEBAPI.pdb
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Antlr3.Runtime.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\EntityFramework.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Newtonsoft.Json.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Owin.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Helpers.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Mvc.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Optimization.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Razor.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\WebGrease.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Newtonsoft.Json.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Helpers.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Mvc.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Optimization.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Razor.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\EntityFramework.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\obj\Debug\WEBAPI.dll
+C:\Users\Yasir\Desktop\Demo\WEBAPI\WEBAPI\obj\Debug\WEBAPI.pdb
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\csc.exe
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\vbc.exe
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.dll.config
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.pdb
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Antlr3.Runtime.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Newtonsoft.Json.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Owin.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Helpers.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Mvc.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Optimization.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Razor.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WebGrease.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Newtonsoft.Json.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Helpers.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Mvc.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Optimization.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Razor.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Antlr3.Runtime.pdb
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.xml
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.dll
+C:\Users\yasir.raza\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.pdb
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\csc.exe
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\vbc.exe
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.dll.config
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WEBAPI.pdb
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Antlr3.Runtime.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Newtonsoft.Json.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Owin.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Helpers.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Mvc.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Optimization.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Razor.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\WebGrease.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Newtonsoft.Json.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Helpers.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Mvc.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Optimization.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Razor.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.csprojResolveAssemblyReference.cache
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.dll
+C:\Users\Yasir\Desktop\DemoTest-master\WEBAPI\WEBAPI\obj\Debug\WEBAPI.pdb
